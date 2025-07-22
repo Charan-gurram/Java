@@ -6,4 +6,6 @@
 - *[Day-5 Practice](../../tree/Day-5)*:  Operators
 - *[Day-6 Practice](../../tree/Day-6)*:  conditional statements
 - *[Day-7 Practice](../../tree/Day-7)*:  switchcase
+- *[Day-8 Practice](../../tree/Day-8)*:  Loops
+- *[Day-9 Practice](../../tree/Day-9)*:  Arrays  
  
